@@ -1,2 +1,1 @@
 # fullaware.io
-![](spoonfeed.gif)
